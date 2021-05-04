@@ -15,7 +15,7 @@ Projetos pessoais: execução de tarefas de coleta de dados estruturados e não-
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/eduardo-almeida-814a676a/)
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile😉&theme=dark&left=true&width=380&height=45"color="dark">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bem-vind@ ao meu githube😉&theme=dark&left=true&width=380&height=45"color="dark">
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="eduardo-almeida's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=eduardo-almeida&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
