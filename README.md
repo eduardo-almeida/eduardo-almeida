@@ -12,7 +12,7 @@ Projetos pessoais: execução de tarefas de coleta de dados estruturados e não-
 **Background in:** Python | SQL | Machine Learning  
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/eduardo-almeida-814a676a/)
+* [LinkedIn](https://www.linkedin.com/in/eduardo-almeida-814a676a/) 
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Bem-vind@+a+meu+Github+😉&theme=dark&left=true&width=380&height=45"color="dark">
